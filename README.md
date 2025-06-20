@@ -19,20 +19,35 @@
 
 ## 💻 Tecnologías que uso
 
-<p align="center">
+### 🧠 Lenguajes de programación
+<p>
   <img src="https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+</p>
+
+### 🗃️ Bases de datos
+<p>
   <img src="https://img.shields.io/badge/MySQL-%2300758F?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+
+### 🛠️ Herramientas y control de versiones
+<p>
   <img src="https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VSCode-%23007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+</p>
+
+### 📐 Metodologías ágiles
+<p>
   <img src="https://img.shields.io/badge/Scrum-%2300B2B2?style=for-the-badge&logo=scrumalliance&logoColor=white"/>
 </p>
 
 ---
 
-## 🔧 Mis habilidades técnicas
+## 🧠 Conocimientos clave
 
-- 🧩 Programación estructurada y orientada a objetos (Java, Python)
+- 🔹 Programación estructurada y orientada a objetos (Java, Python)
 - 🌐 Desarrollo web básico con HTML semántico y diseño responsivo
 - 🧠 Lógica de programación, algoritmos y estructuras de datos
 - 🗄️ Modelado y consultas SQL en bases de datos relacionales
@@ -53,7 +68,7 @@
 
 ---
 
-## 📊 Mis estadísticas
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nerio18c&show_icons=true&theme=github_dark&count_private=true" alt="GitHub Stats" />
@@ -89,5 +104,6 @@
 
 ---
 
-<p align="center"><i>“El código no solo se escribe, se vive.”</i> ✨</p>
+<p align="center"><i>“El código no solo se escribe, se vive.” ✨</i></p>
+
 
