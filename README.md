@@ -13,7 +13,6 @@
 - 💡 Interesado en: Desarrollo Web, Programación Orientada a Objetos y Metodologías Ágiles (Scrum)
 - 🔎 Buscando oportunidades de **prácticas preprofesionales**
 - 🌍 Ubicación: Lima, Perú
-- 🌐 Web personal (¡próximamente!)
 - 📬 Contacto: [neriocruzayquipa123@gmail.com](mailto:neriocruzayquipa123@gmail.com)
 
 ---
@@ -43,11 +42,11 @@
 ### 📊 Estadísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=neriocruz&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nerio18c&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neriocruz&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nerio18c&layout=compact&theme=tokyonight" alt="Top Langs" />
 </p>
 
 ---
@@ -72,5 +71,5 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=neriocruz&label=Visitas+al+perfil&color=blueviolet&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=nerio18c&label=Visitas+al+perfil&color=blueviolet&style=flat" />
 </p>
