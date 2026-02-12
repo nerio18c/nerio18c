@@ -21,9 +21,15 @@
 
 ### 🧠 Lenguajes de programación
 <p>
+  <img src="https://img.shields.io/badge/PHP-%23777BB4?style=for-the-badge&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+</p>
+
+### 🚀 Frameworks
+<p>
+  <img src="https://img.shields.io/badge/Laravel-%23FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
 </p>
 
 ### 🗃️ Bases de datos
@@ -38,62 +44,39 @@
   <img src="https://img.shields.io/badge/VSCode-%23007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </p>
 
-### 📐 Metodologías ágiles
-<p>
-  <img src="https://img.shields.io/badge/Scrum-%2300B2B2?style=for-the-badge&logo=scrumalliance&logoColor=white"/>
-</p>
-
 ---
 
 ## 🧠 Conocimientos clave
 
-- 🔹 Programación estructurada y orientada a objetos (Java, Python)
-- 🌐 Desarrollo web básico con HTML semántico y diseño responsivo
-- 🧠 Lógica de programación, algoritmos y estructuras de datos
-- 🗄️ Modelado y consultas SQL en bases de datos relacionales
+- 🔹 Desarrollo backend con **PHP y Laravel** (MVC)
+- 🔹 Programación orientada a objetos (Java, Python)
+- 🌐 Desarrollo web con HTML semántico y diseño responsivo
+- 🧠 Lógica de programación y algoritmos
+- 🗄️ Modelado de bases de datos relacionales y consultas SQL
 - 🧪 Pruebas básicas y depuración de código
-- 📊 Análisis funcional, diagramado y pseudocódigo
-
----
-
-## 🤝 Habilidades blandas
-
-| Trabajo en equipo | Resolución de problemas | Comunicación efectiva |
-|-------------------|--------------------------|------------------------|
-| ✅ Sí              | ✅ Sí                    | ✅ Sí                  |
-
-- 💪 Proactividad y responsabilidad
-- 📈 Aprendizaje continuo y adaptación
-- ⏰ Gestión del tiempo
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nerio18c&show_icons=true&theme=github_dark&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nerio18c&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nerio18c&layout=compact&theme=github_dark" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nerio18c&layout=compact&theme=tokyonight" alt="Top Langs" />
 </p>
+
+> **Nota:** Si las estadísticas no cargan, asegúrate de que tu perfil de GitHub no esté en modo privado y que tengas al menos un repositorio público con código.
 
 ---
 
 ## 🧪 En qué estoy trabajando
 
-- 🔧 Proyectos CRUD con bases de datos
-- 🌐 Aplicaciones web front-end y back-end
-- 📁 Portafolio personal en desarrollo
-- ⚙️ Automatización con Python
-
----
-
-## 📈 Visitas al perfil
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nerio18c&label=Visitas&color=blueviolet&style=flat" />
-</p>
+- 🔧 Proyectos **CRUD con Laravel y MySQL**
+- 🌐 Aplicaciones web completas (Full-stack)
+- 📁 Portafolio personal para mostrar mis avances
+- ⚙️ Automatización de tareas con Python
 
 ---
 
@@ -105,5 +88,3 @@
 ---
 
 <p align="center"><i>“El código no solo se escribe, se vive.” ✨</i></p>
-
-
