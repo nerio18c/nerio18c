@@ -54,7 +54,7 @@
 ## 🧠 Conocimientos clave
 
 - 🔹 Desarrollo backend con **PHP y Laravel** (Estructura MVC)
-- 🔹 Programación orientada a objetos avanzada (Java, Python)
+- 🔹 Programación orientada a objetos (Java, Python)
 - 🌐 Maquetación web con HTML5 y diseño responsivo
 - 🧠 Lógica de programación, algoritmos y estructuras de datos
 - 🗄️ Gestión, modelado y consultas SQL en bases de datos relacionales
@@ -71,16 +71,6 @@
 - 💪 Proactividad y responsabilidad
 - 📈 Aprendizaje continuo y adaptación
 - ⏰ Gestión efectiva del tiempo
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nerio18c&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nerio18c&layout=compact&theme=dark&hide_border=true" alt="Top Langs" />
-</p>
 
 ---
 
