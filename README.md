@@ -27,7 +27,7 @@
   <img src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 </p>
 
-### 🚀 Frameworks
+### 🚀 Frameworks y Bibliotecas
 <p>
   <img src="https://img.shields.io/badge/Laravel-%23FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
 </p>
@@ -44,39 +44,52 @@
   <img src="https://img.shields.io/badge/VSCode-%23007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </p>
 
+### 📐 Metodologías ágiles
+<p>
+  <img src="https://img.shields.io/badge/Scrum-%2300B2B2?style=for-the-badge&logo=scrumalliance&logoColor=white"/>
+</p>
+
 ---
 
 ## 🧠 Conocimientos clave
 
-- 🔹 Desarrollo backend con **PHP y Laravel** (MVC)
-- 🔹 Programación orientada a objetos (Java, Python)
-- 🌐 Desarrollo web con HTML semántico y diseño responsivo
-- 🧠 Lógica de programación y algoritmos
-- 🗄️ Modelado de bases de datos relacionales y consultas SQL
-- 🧪 Pruebas básicas y depuración de código
+- 🔹 Desarrollo backend con **PHP y Laravel** (Estructura MVC)
+- 🔹 Programación orientada a objetos avanzada (Java, Python)
+- 🌐 Maquetación web con HTML5 y diseño responsivo
+- 🧠 Lógica de programación, algoritmos y estructuras de datos
+- 🗄️ Gestión, modelado y consultas SQL en bases de datos relacionales
+- 📊 Análisis funcional, diagramado de procesos y pseudocódigo
+
+---
+
+## 🤝 Habilidades blandas
+
+| Trabajo en equipo | Resolución de problemas | Comunicación efectiva |
+|-------------------|--------------------------|------------------------|
+| ✅ Sí              | ✅ Sí                    | ✅ Sí                  |
+
+- 💪 Proactividad y responsabilidad
+- 📈 Aprendizaje continuo y adaptación
+- ⏰ Gestión efectiva del tiempo
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nerio18c&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nerio18c&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nerio18c&layout=compact&theme=dark&hide_border=true" alt="Top Langs" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nerio18c&layout=compact&theme=tokyonight" alt="Top Langs" />
-</p>
-
-> **Nota:** Si las estadísticas no cargan, asegúrate de que tu perfil de GitHub no esté en modo privado y que tengas al menos un repositorio público con código.
 
 ---
 
 ## 🧪 En qué estoy trabajando
 
-- 🔧 Proyectos **CRUD con Laravel y MySQL**
-- 🌐 Aplicaciones web completas (Full-stack)
-- 📁 Portafolio personal para mostrar mis avances
-- ⚙️ Automatización de tareas con Python
+- 🔧 Proyectos **CRUD** robustos con Laravel y bases de datos relacionales
+- 🌐 Desarrollo de aplicaciones web Full-stack
+- 📁 Refinando mi portafolio profesional
+- ⚙️ Scripts de automatización con Python
 
 ---
 
